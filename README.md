@@ -17,4 +17,4 @@
 
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![image alt][https://github.com/TTONNN/TTONNN/blob/main/IMG_3991.jpg?raw=true](https://github.com/TTONNN/TTONNN/blob/e747f98de4ef9f315d2de13fcdc2d187ee17177a/IMG_3991.jpg)
+![image alt](https://github.com/TTONNN/TTONNN/blob/e747f98de4ef9f315d2de13fcdc2d187ee17177a/IMG_3991.jpg)
