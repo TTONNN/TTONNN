@@ -17,6 +17,6 @@
 
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="100" height="100"/> </a> </p>
 
-<img height=378 width=504 src="https://github.com/TTONNN/TTONNN/blob/e747f98de4ef9f315d2de13fcdc2d187ee17177a/IMG_3991.jpg"/>
+<img height=252 width=336 src="https://github.com/TTONNN/TTONNN/blob/e747f98de4ef9f315d2de13fcdc2d187ee17177a/IMG_3991.jpg"/>
 <h3>30/11/24</h3> <p>
 <h3>  I got a new pc !! I can do every game i want !</h3>
