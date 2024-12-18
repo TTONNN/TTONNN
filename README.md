@@ -2,10 +2,6 @@
 
 <p align="left">
 </p>
-<p align="left">
-</p>
-<p align="left">
-</p>
 
 <h1 align="left">Programming Language:</h1>
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
