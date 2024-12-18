@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">ห้องเรียนพิเศษด้าน  วิทยาศาสตร์  คณิตศาสตร์   ICT</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">PROGRAMMING LANGUAGE:</h3>
 <p align="left">
 </p>
 
