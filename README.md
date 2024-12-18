@@ -19,4 +19,5 @@
 <p>
 <img height=252 width=336 src="https://github.com/TTONNN/TTONNN/blob/e747f98de4ef9f315d2de13fcdc2d187ee17177a/IMG_3991.jpg"/>
 <h3>30/11/24</h3> <p>
-<h3>  I got a new pc !! I can do every game i want !</h3>
+<h3>  I got a new pc !! </h3> <p>
+ <h3> I can do every game i want !</h3>
